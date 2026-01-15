@@ -11,8 +11,8 @@ public class BeautifulMatrix {
             }
         }
 
-        int x = sc.nextInt();
-        int y = sc.nextInt();
+        int x = 0;
+        int y = 0;
 
         for (int i = 0; i < 5; i++) {
             for (int j = 0; j < 5; j++) {
